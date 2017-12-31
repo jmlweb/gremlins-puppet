@@ -1,7 +1,7 @@
 # Gremlins Puppet
 Monkey testing with Gremlins.js via Puppeteer
 
-![gremlins](https://media.giphy.com/media/l2YWDVBDEhAAJSeQg/giphy.gif)
+![gremlins](https://media.giphy.com/media/l2YWDVBDEhAAJSeQg/200w_d.gif)
 
 ## Install
 
