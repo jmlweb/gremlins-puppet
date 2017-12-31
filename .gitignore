@@ -57,5 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# app configuration
+config
+
 # dist Directory
 dist
