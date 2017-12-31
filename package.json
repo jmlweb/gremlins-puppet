@@ -9,7 +9,8 @@
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "gremlins.js": "^0.1.0",
-    "puppeteer": "^0.13.0"
+    "puppeteer": "^0.13.0",
+    "yargs": "^10.0.3"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
