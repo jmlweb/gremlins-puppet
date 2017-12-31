@@ -1,0 +1,16 @@
+{
+    "env": {
+      "node": true,
+      "es6": true
+    },
+    "parserOptions": {
+      "sourceType": "module",
+      "ecmaVersion": 6,
+      "ecmaFeatures": {
+        "experimentalObjectRestSpread": true
+      }
+    },
+    "extends": [
+      "nodejs"
+    ]
+  }
