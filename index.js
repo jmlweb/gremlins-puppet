@@ -1,5 +1,7 @@
 import 'babel-polyfill';
 
-import startTesting from './lib/startTesting';
+import config from './config';
 
-startTesting();
+import gremlinsPuppet from './lib/gremlinsPuppet';
+
+gremlinsPuppet(config);
