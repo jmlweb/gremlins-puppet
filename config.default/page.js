@@ -1,5 +1,5 @@
 export default {
-  entryPoint: 'https://www.pccomponentes.com',
+  entryPoint: 'https://www.sewan.es/',
   allowOtherPages: true,
   viewport: {
     width: 1024,
